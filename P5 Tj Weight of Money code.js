@@ -3,7 +3,7 @@ let circles = []
 
 function setup() {
   createCanvas(800, 800)
-  // Load JSON data and store in variable test 
+  // Load JSON data and store in the variable test 
   test = loadJSON('https://api.exchangerate-api.com/v4/latest/GBP', circleParamaters)
 }
 //this function defines and pushes the data and spefic valus to the array
