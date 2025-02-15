@@ -1,6 +1,6 @@
 # IMGD-5010-Assignment-4-Thomas-Jolicoeur
 ## Idea
-My initial idea turned out far differner from what i ended up with (Curse http for ruining my plans), I used the lessons we learned in class and the stater code to create a mesh of both that displays a strange view on currency exchange rates where it changes the alpha and color based on the rate of conversion for pounds. Then set them to move to almost make it seem like weaker conversion rates were being overtaken by stronger ones. In a way showing the disparity of wealth between countries and the EU in a unique way that shows rather than tells.
+My initial idea turned out far different from what i ended up with (Curse http for ruining my plans), I used the lessons we learned in class and the stater code to create a mesh of both that displays a strange view on currency exchange rates where it changes the alpha and color based on the rate of conversion for pounds. Then set them to move to almost make it seem like weaker conversion rates were being overtaken by stronger ones. In a way showing the disparity of wealth between countries and the EU in a unique way that shows rather than tells. It took a while for me to get this to work I struggled a lot on understanding how to mesh api's into the normal swing of things, but after like 8~10hours I'm pretty happy with what i cooked up.
 
 ##  Code
 ```
